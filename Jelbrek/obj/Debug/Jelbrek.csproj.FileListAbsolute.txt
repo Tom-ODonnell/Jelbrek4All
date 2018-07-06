@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Jelbrek\Jelbrek\bin\Debug\Jelbrek.exe.config
+c:\users\admin\source\repos\Jelbrek\Jelbrek\bin\Debug\Jelbrek.exe
+c:\users\admin\source\repos\Jelbrek\Jelbrek\bin\Debug\Jelbrek.pdb
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.csprojAssemblyReference.cache
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.Form1.resources
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.Properties.Resources.resources
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.csproj.GenerateResource.cache
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.exe
+c:\users\admin\source\repos\Jelbrek\Jelbrek\obj\Debug\Jelbrek.pdb
